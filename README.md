@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there! I'm Aravind K.B 👋
 
-<!--
-**kann4n/kann4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ MSc Data Science & AI @ CUSAT    
+ 
+ I'm also exploring Python AI projects, Web dev and realistic simulations  
+ Themes I love: nature, tradition, and clean design  
 
-Here are some ideas to get you started:
+  
+Old repos live at [@kannanhacker123](https://github.com/kannanhacker123)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kann4n&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
