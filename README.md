@@ -12,7 +12,7 @@ Themes I love: nature, tradition, and clean design.
 <div align="center">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kann4n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kann4n&layout=compact&langs_count=8&theme=tokyonight"/> -->
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=kann4n&row=1&column=6&theme=flat&no-frame=true&no-bg=true" alt="ktrophies"/>
+  <!-- <img src="https://github-profile-trophy-kannan.vercel.app/?username=kann4n&row=1&column=6&theme=flat&no-frame=true&no-bg=true" alt="ktrophies"/> -->
 </div>
 
 ---
