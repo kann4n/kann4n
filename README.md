@@ -13,3 +13,5 @@ Themes I love: nature, tradition, and clean design.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kann4n&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
+
+![](https://hit.yhype.me/github/profile?account_id=224385053)
